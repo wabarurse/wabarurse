@@ -1,6 +1,6 @@
 # Richard Huang's GitHub Profile
 
-Hi, I'm Richard, a software engineering student at the University of Waterloo. I enjoy working on projects that involve embedded systems, AI, and full-stack development.
+Hi, I'm Richard, a software engineering student at the University of Waterloo. 
 
 ---
 
@@ -25,8 +25,3 @@ Hi, I'm Richard, a software engineering student at the University of Waterloo. I
 - **Very Large Integer Arithmetic in C**  
   Designed a C library for handling very large integers with custom memory management, ensuring efficient operations without leading zeros.
 
----
-
-## 📫 Contact Me
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/richard-huang) or check out more of my projects here on GitHub!

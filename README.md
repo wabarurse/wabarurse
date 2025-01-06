@@ -6,7 +6,8 @@ Hi, I'm Richard, a software engineering student at the University of Waterloo. I
 
 ## 🛠️ Top Programming Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richardhuang&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wabarurse&hide=javascript,css,scss,html&theme=tokyonight)
+
 
 ---
 

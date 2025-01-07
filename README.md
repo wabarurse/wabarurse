@@ -1,6 +1,6 @@
 # Richard Huang's GitHub Profile
 
-Hi, I'm Richard, a software engineering student at the University of Waterloo. 
+Hi ✋, I'm Richard, a software engineering student at the University of Waterloo. 
 
 ---
 

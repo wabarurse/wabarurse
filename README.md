@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a software engineer @ IrisGo<br>🎓 I'm a software engineering student @ The University of Waterloo
+🎓 I'm a software engineering student @ The University of Waterloo
 
 
 ## 🌐 Socials:
